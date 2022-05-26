@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.21)
+project(Process_Management_System_based_on_Static_Priority)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Process_Management_System_based_on_Static_Priority main.cpp)
